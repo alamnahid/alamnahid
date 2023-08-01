@@ -23,6 +23,8 @@
 
 
 <h1 align="center">Programming Hero Assignments</h1>
+<h4 align="center"><a href="https://github.com/alamnahid/fruit-brust-assignment-3">Food Brust Assignment 3 Source Code-----------></a>
+        <a href="https://alamnahid.github.io/fruit-brust-assignment-3/">Assignment Live Link</a></h4>
 <h4 align="center"><a href="https://github.com/alamnahid/gamer-zone-assignment2">Gamer Zone Assignment 2 Source Code-----------></a>
         <a href="https://alamnahid.github.io/gamer-zone-assignment2/">Assignment Live Link</a></h4>
         <h4 align="center"><a href="https://github.com/alamnahid/Flower-shop-assignment">Flower Shop Assignment 1 Source Code-----------></a>
