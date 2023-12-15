@@ -1,4 +1,4 @@
- <img src="https://github.com/alamnahid/portfolio-conceptional-session-practice/assets/138557372/7d886288-1024-411e-8389-507fe9d8c3be" alt="">
+ <img src="https://github.com/alamnahid/alamnahid/assets/138557372/8e29ff66-1e94-4603-a97c-e2914d29508c" alt="">
 
 <h1 align="center">Hi 👋, I'm Nahid</h1>
 <h4 align="center">💻 Web Developer | CSE Student | Passionate about Creating Digital Experiences</h4>
