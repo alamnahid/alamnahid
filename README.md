@@ -1,4 +1,6 @@
- <img src="https://i.ibb.co/5B1wT5B/Blue-Gradient-Technology-Zoom-Virtual-Background-1.gif" alt="">
+ <img src="https://github.com/alamnahid/alamnahid/assets/138557372/3fb165e4-a498-463a-8755-006fc7b2120e" alt="">
+
+
 
 <h1 align="center">Hi 👋, I'm Nahid</h1>
 <h4 align="center">💻 Web Developer | CSE Student | Passionate about Creating Digital Experiences</h4>
