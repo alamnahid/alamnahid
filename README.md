@@ -1,9 +1,19 @@
- <img src="https://github.com/alamnahid/alamnahid/assets/138557372/3fb165e4-a498-463a-8755-006fc7b2120e" alt="">
+ <a href="https://www.linkedin.com/in/nahid-alam/">
+<img src="https://github.com/alamnahid/alamnahid/assets/138557372/c98a6140-c243-44cd-9130-965b3dc13bc5" />
+</a>
 
 
+## 👋 Hello,
 
-<h1 align="center">Hi 👋, I'm Nahid</h1>
-<h4 align="center">💻 Web Developer | CSE Student | Passionate about Creating Digital Experiences</h4>
+I'm Passionate about web development and on a journey to become a successful MERN stack developer. I've completed several projects, each contributing to my growth.
+
+### 💻 Tech Stack
+- 🌐 Frontend: HTML, CSS, JavaScript, React
+- 🚀 Backend: Node.js, Express
+- 🛢️ Database: MongoDB
+
+### 🌱 Current Focus
+Continuously expanding my skills in the MERN stack, diving into the intricacies of building scalable and efficient web applications.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamnahid&label=Profile%20views&color=0e75b6&style=flat" alt="alamnahid" /> </p>
 
