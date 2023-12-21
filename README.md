@@ -1,5 +1,5 @@
  <a href="https://www.linkedin.com/in/nahid-alam/">
-<img src="https://github.com/alamnahid/alamnahid/assets/138557372/c98a6140-c243-44cd-9130-965b3dc13bc5" />
+<img src="https://github.com/alamnahid/alamnahid/assets/138557372/f0746d71-653c-4448-b775-1881ee31e612" />
 </a>
 
 
